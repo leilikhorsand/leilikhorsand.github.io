@@ -1,0 +1,1 @@
+import{j as r}from"./index-02835639.js";import{H as t}from"./Hero-d2a60a6f.js";import{P as e}from"./Page-f99d0261.js";function a(){return r.jsx(e,{title:"Home",withBackground:!1,isFirst:!0,children:r.jsx(t,{})})}export{a as default};
