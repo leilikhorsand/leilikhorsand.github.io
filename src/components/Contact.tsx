@@ -14,7 +14,7 @@ import {
     Anchor,
 } from "@mantine/core";
 import RepositoryCard from "./RepositoryCard";
-import killedbyisl from "../assets/killedby-ezgif.com-video-to-gif-converter.gif";
+import killedbyisl from "../assets/leiliiiiiiiiiii.jpg";
 import { useForm } from "@mantine/form";
 import { showNotification } from "@mantine/notifications";
 // components
@@ -150,7 +150,7 @@ export function Contact() {
 
     return (
         <BoxWrapper>
-            <SimpleGrid
+            {/* <SimpleGrid
                 cols={2}
                 spacing={50}
                 breakpoints={[{ maxWidth: "sm", cols: 1 }]}
@@ -220,7 +220,8 @@ export function Contact() {
                               ))}
                     </Grid>
                 </div>
-            </SimpleGrid>
+            </SimpleGrid> */}
+            <h1>در حال به روز رسانی</h1>
         </BoxWrapper>
     );
 }

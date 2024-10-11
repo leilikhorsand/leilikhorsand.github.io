@@ -43,7 +43,7 @@ export default function Routes() {
       children: [{ path: "", element: <ProjectsPage /> }],
     },
     {
-      path: "/victims",
+      path: "/contact",
       element: <MainLayout />,
       children: [{ path: "", element: <ContactPage /> }],
     },

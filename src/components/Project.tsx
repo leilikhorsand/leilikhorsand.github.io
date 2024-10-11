@@ -28,7 +28,7 @@ export default function Github() {
 
   return (
     <Container px="xl" size="lg">
-      <BoxWrapper withBackground={false}>
+      {/* <BoxWrapper withBackground={false}>
         <Title
           order={1}
           sx={(theme) => ({
@@ -62,7 +62,8 @@ export default function Github() {
                 </Grid.Col>
               ))}
         </Grid>
-      </BoxWrapper>
+      </BoxWrapper> */}
+            در حال به روز رسانی
     </Container>
   );
 }

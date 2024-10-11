@@ -54,8 +54,8 @@ export default function Skills() {
     const { classes } = useStyles();
     return (
         <Container px="xl" size="lg" style={{minWidth: "350px"}}>
-            <BoxWrapper withBackground={true}>
-                {/* {tech.map((item: any, index: number) => (
+            {/* <BoxWrapper withBackground={true}>
+                {tech.map((item: any, index: number) => (
           <div key={index}>
             <Title
               order={1}
@@ -99,7 +99,7 @@ export default function Skills() {
               </div>
             ))}
           </div>
-        ))} */}
+        ))}
                 <div>
                     <div style={{overflow: "hidden"}}>
                         <a href="https://en.wikipedia.org/wiki/Liwa_Fatemiyoun" style={{fontSize: "32px", fontWeight: "monospace"}}>
@@ -172,7 +172,8 @@ export default function Skills() {
                         <img src={dddddeeedssaa} width="500px" style={{minWidth: "350px"}} />
                     </div>
                 </div>
-            </BoxWrapper>
+            </BoxWrapper> */}
+                  در حال به روز رسانی
         </Container>
     );
 }

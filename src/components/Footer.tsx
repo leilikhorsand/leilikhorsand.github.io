@@ -68,9 +68,9 @@ export default function Footer() {
     <footer className={classes.footer}>
       <Container className={classes.afterFooter}>
         <Text color="dimmed" size="sm">
-          Copyright © 2022 na0495 All rights reserved, view the source code on{" "}
+          Copyright © 2022 leili khorsand All rights reserved, view the source code on{" "}
           <a
-            href="https://github.com/killedbyislam"
+            href="https://github.com/leilikhorsand"
             target="_blank"
             rel="noreferrer"
           >

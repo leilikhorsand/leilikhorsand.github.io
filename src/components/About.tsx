@@ -63,7 +63,7 @@ export default function About() {
 
   return (
     <Container px="xl" size="lg">
-      <BoxWrapper withBackground={false}>
+      {/* <BoxWrapper withBackground={false}>
         <Group position="apart" mb={25}>
           <Title
             order={1}
@@ -117,7 +117,8 @@ export default function About() {
         ) : (
           <NonTechContent />
         )}
-      </BoxWrapper>
+      </BoxWrapper> */}
+      در حال به روز رسانی
     </Container>
   );
 }

@@ -30,8 +30,8 @@ const links = [
     link: "/projects",
   },
   {
-    label: "List of victims",
-    link: "/victims",
+    label: "contact",
+    link: "/contact",
   },
 ];
 

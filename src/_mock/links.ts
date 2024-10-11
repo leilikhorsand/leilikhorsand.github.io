@@ -1,17 +1,17 @@
-import { BrandGithub, BrandLinkedin, BrandTwitter } from "tabler-icons-react";
+import { BrandGithub, BrandLinkedin, BrandTwitter, BrandInstagram } from "tabler-icons-react";
 
 // ----------------------------------------------------------------------
 
 export const socialLinks = [
   {
-    label: "Twitter",
-    href: "https://x.com/killedbyislam",
-    icon: BrandTwitter,
+    label: "Instagram",
+    href: "https://instagram.com/leilikhorsand_master",
+    icon: BrandInstagram,
     color: "#1DA1F2",
   },
   {
     label: "Github",
-    href: "https://github.com/killedbyislam",
+    href: "https://github.com/leilikhorsand",
     icon: BrandGithub,
     color: "#24292e",
   }

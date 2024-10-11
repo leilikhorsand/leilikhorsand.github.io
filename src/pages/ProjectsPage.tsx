@@ -9,13 +9,14 @@ import Section from "src/components/Section";
 export default function ProjectsPage() {
   return (
     <>
-      <CustomHelmet title="Projects" />
+      {/* <CustomHelmet title="Projects" />
       <Section>
         <Github />
       </Section>
       <Section>
         <Project />
-      </Section>
+      </Section> */}
+      <h1>در حال بروزرسانی</h1>
     </>
   );
 }

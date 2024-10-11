@@ -7,7 +7,7 @@ function Type() {
   return (
     <Typewriter
       options={{
-        strings: ["bavar kon Baby", "jedi migam Baby", "ye kam fek kon Baby!!"],
+        strings: ["pmu", "master"],
         autoStart: true,
         loop: true,
         deleteSpeed: 50,

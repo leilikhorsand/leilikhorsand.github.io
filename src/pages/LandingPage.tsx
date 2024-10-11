@@ -50,18 +50,18 @@ export default function LandingPage() {
       <Section withBackground={false} isFirst={true}>
         <Hero />
       </Section>
-      <Section withBackground={true}>
+      {/* <Section withBackground={true}>
         <About />
-      </Section>
-      <Section withBackground={false}>
+      </Section> */}
+      {/* <Section withBackground={false}>
         <Skills />
-      </Section>
-      <Section withBackground={true} height={"200hv"}>
+      </Section> */}
+      {/* <Section withBackground={true} height={"200hv"}>
         <Github />
-      </Section>
-      <Section withBackground={false} height={"200hv"}>
+      </Section> */}
+      {/* <Section withBackground={false} height={"200hv"}>
         <Project />
-      </Section>
+      </Section> */}
       <div className={classes.sticky}>
         <ActionIcon
           variant="filled"

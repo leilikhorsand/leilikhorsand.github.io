@@ -1,4 +1,4 @@
-export const GITHUB_USERNAME = "killedbyislam";
+export const GITHUB_USERNAME = "leilikhorsand";
 
 export const googleAnlyticId = import.meta.env.VITE_REACT_APP_GA_ID || "None";
 

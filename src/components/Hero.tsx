@@ -18,7 +18,7 @@ import Type from "./animations/Type";
 import { varFade } from "./animations/variants";
 import getVariant from "./animations/variants/getVariant";
 import HeroCanvas from "./HeroCanvas";
-import killedbyisl from "../assets/killedby-ezgif.com-video-to-gif-converter.gif"
+import killedbyisl from "../assets/leiliiiiiiiiiii.jpg"
 // utils
 import { backgroundGradient, textGradient } from "src/utils/cssStyles";
 // icons
@@ -28,7 +28,7 @@ import { metaData } from "src/_mock/seo";
 
 // --------------------------------------------------
 
-const STRING: string[] = ["Killed,", "_", "By"];
+const STRING: string[] = ["Leili,", "_", "Khorsand"];
 
 const useStyles: any = createStyles((theme) => ({
   title: {
@@ -203,7 +203,7 @@ export default function Hero() {
                   <Type />
                 </Title>
               </m.div>
-              <Group mt={30}>
+              {/* <Group mt={30}>
                 <Button
                   variant="default"
                   radius="lg"
@@ -223,7 +223,7 @@ export default function Hero() {
                     <Star />
                   </ThemeIcon>
                 </Button>
-              </Group>
+              </Group> */}
             </Box>
           </Center>
         </Grid.Col>

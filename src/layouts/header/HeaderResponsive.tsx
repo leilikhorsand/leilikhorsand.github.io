@@ -229,7 +229,7 @@ export default function HeaderResponsive({ links }: HeaderResponsiveProps) {
         </Group>
         <Group>
           <SwitchMode />
-          <MusicMode />
+          {/* <MusicMode /> */}
         </Group>
 
         <Transition transition="pop-top-right" duration={200} mounted={opened}>
