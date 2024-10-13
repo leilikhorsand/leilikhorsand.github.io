@@ -102,72 +102,29 @@ export default function Skills() {
         ))}
                 <div>
                     <div style={{overflow: "hidden"}}>
-                        <a href="https://en.wikipedia.org/wiki/Liwa_Fatemiyoun" style={{fontSize: "32px", fontWeight: "monospace"}}>
-                            Designation as terrorist organization
+                        <a href="https://en.wikipedia.org/" style={{fontSize: "32px", fontWeight: "monospace"}}>
+                            
                         </a>
                         <p>
-                            Liwa Fatemiyoun (Arabic: لِوَاء الْفَاطِمِيُّون,
-                            romanized: Liwā’ al-Fāṭimīyūn; Persian/Dari: لواء
-                            فاطمیون or لشکر فاطمیون), literally "Fatimid
-                            Banner", also known as Fatemiyoun Division or
-                            Fatemiyoun Brigade,[3] is an Afghan Shia militia
-                            formed in 2014 to fight in Syria on the side of the
-                            Syrian government. The group's officially designated
-                            purpose, is the defense of the shrine of Zaynab bint
-                            Ali, and to fight "takfiri terrorists" in Syria,
-                            which would come to include the Islamic State
-                            (IS).[26][27] It is funded, trained, and equipped by
-                            the Islamic Revolutionary Guard Corps (IRGC), and
-                            fights under the command of Iranian officers.[4]
-                            Both the Fatemiyoun Brigade and the Iranian
-                            government downplay their relationship with one
-                            another, despite clear coordination and the
-                            brigade's operation under the auspices of the
-                            IRGC.[4] Liwa Fatemiyoun is also closely associated
-                            with Hezbollah Afghanistan.[4]
+                            yep
                         </p>
                         <img src={ffddddd} width="500px" style={{minWidth: "250px"}} />
                     </div>
                     <div style={{display: "flex", alignItems: "center", flexDirection: "column", overflow: "hidden"}}>
-                        <a href="https://en.wikipedia.org/wiki/Hezbollah" style={{fontSize: "38px", fontWeight: "monospace"}}>
+                        <a href="https://en.wikipedia.org/" style={{fontSize: "38px", fontWeight: "monospace"}}>
                             Hezbollah
                         </a>
                         <p>
-                            A group of Shiites influenced by the theocratic
-                            government in Iran—the region’s major Shiite
-                            government, which came to power in 1979—took up arms
-                            against the Israeli occupation. Seeing an
-                            opportunity to expand its influence in Arab states,
-                            Iran and its Islamic Revolutionary Guard Corps
-                            (IRGC) provided funds and training to the budding
-                            militia, which adopted the name Hezbollah, meaning
-                            “The Party of God.” It earned a reputation for
-                            extremist militancy due to its frequent clashes with
-                            rival Shiite militias, such as the Amal Movement,
-                            and its attacks on foreign targets, including the
-                            1983 suicide bombing of barracks housing U.S. and
-                            French troops in Beirut, in which more than three
-                            hundred people died. Hezbollah became a vital asset
-                            to Iran, bridging Shiite Arab-Persian divides as
-                            Tehran established proxies throughout the Middle
-                            East.
+                            wow
                         </p>
                         <img src={hezbolaaa} width="500px" style={{minWidth: "250px"}} />
                     </div>
                     <div style={{display: "flex", alignItems: "end", flexDirection: "column", overflow: "hidden"}}>
-                        <a href="https://en.wikipedia.org/wiki/Houthi_movement" style={{fontSize: "55px", fontWeight: "monospace"}}>
-                            Ansar Allah
+                        <a href="" style={{fontSize: "55px", fontWeight: "monospace"}}>
+                            ya ali
                         </a>
                         <p>
-                            The US designation of Ansar Allah as a Foreign
-                            Terrorist Organisation, in addition to the
-                            designation of three of its leaders, risks rendering
-                            UN-led efforts to reach a comprehensive solution to
-                            the Yemen conflict more difficult. It will
-                            complicate the necessary diplomatic engagement with
-                            Ansar Allah and the work of the international
-                            community on political, humanitarian and
-                            developmental matters.
+                            ok
                         </p>
                         <img src={dddddeeedssaa} width="500px" style={{minWidth: "350px"}} />
                     </div>

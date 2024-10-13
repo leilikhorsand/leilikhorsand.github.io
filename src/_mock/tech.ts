@@ -31,10 +31,10 @@ export const tech = [
   {
     title: "Technologies & Tools",
     description:
-      "kill, kill and just kill..",
+      "Technologies",
     data: [
       {
-        type: "killing in syra",
+        type: "Tools many tools",
         webp: [
           pythonWebp,
           jsWebp,

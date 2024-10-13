@@ -18,7 +18,7 @@ import Type from "./animations/Type";
 import { varFade } from "./animations/variants";
 import getVariant from "./animations/variants/getVariant";
 import HeroCanvas from "./HeroCanvas";
-import killedbyisl from "../assets/leiliiiiiiiiiii.jpg"
+import leiliPic from "../assets/leiliiiiiiiiiii.jpg"
 // utils
 import { backgroundGradient, textGradient } from "src/utils/cssStyles";
 // icons
@@ -210,7 +210,7 @@ export default function Hero() {
                   size="md"
                   className={classes.control}
                   component={"a"}
-                  href="https://github.com/killedbyislam"
+                  href="https://github.com/leilikhorsand"
                   target={"_blank"}
                   onClick={() =>
                     gaEventTracker({
@@ -229,7 +229,7 @@ export default function Hero() {
         </Grid.Col>
         <Grid.Col lg={6} md={5} sm={12}>
           <div style={{display: "flex", alignItems: "center", justifyContent: "center"}}>
-            <img src={killedbyisl} alt="" height={"459px"} />
+            <img src={leiliPic} alt="" height={"459px"} />
           </div>
         </Grid.Col>
       </Grid>

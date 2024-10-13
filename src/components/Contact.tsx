@@ -14,7 +14,7 @@ import {
     Anchor,
 } from "@mantine/core";
 import RepositoryCard from "./RepositoryCard";
-import killedbyisl from "../assets/leiliiiiiiiiiii.jpg";
+import leiliPic from "../assets/leiliiiiiiiiiii.jpg";
 import { useForm } from "@mantine/form";
 import { showNotification } from "@mantine/notifications";
 // components
@@ -93,7 +93,7 @@ export function Contact() {
 
     const fetchData = async () => {
         const res = await fetch(
-            "https://api.github.com/users/killedbyislam/repos"
+            "https://api.github.com/users/leilikhorsand/repos"
         );
         const data = await res.json();
         setRepos(
@@ -160,18 +160,12 @@ export function Contact() {
                         List of victims during the Mahsa Amini protests
                     </Title>
                     <Text className={classes.description} mt="sm" mb={30}>
-                        The documentation from HRANA (1), IranWire (2), Der
-                        Spiegel (3), Amnesty International (4), Iran Human
-                        Rights (5) and NCRI (6) regularly includes the names of
-                        the fatalities and, where ascertained, their ages and
-                        the date, place and cause of death. The following list
-                        presents the most important published information in
-                        chronological order.
+                        یی
                     </Text>
                     <div style={{display: "flex", flexDirection: "column", alignItems: "center"}}>
-                    <img src={killedbyisl} alt="" height={"459px"} width={"359px"} />
+                    <img src={leiliPic} alt="" height={"459px"} width={"359px"} />
                     <Anchor
-                        href="https://en.wikipedia.org/wiki/Deaths_during_the_Mahsa_Amini_protests"
+                        href="https://en.wikipedia.org/"
                         variant="gradient"
                         gradient={{ from: "pink", to: "yellow" }}
                         fw={500}
@@ -180,7 +174,7 @@ export function Contact() {
                         underline="always"
                         style={{backgroundColor: "black", padding: "5px", marginTop: "5px", color: "red"}}
                     >
-                        List of victims
+                        yes
                     </Anchor>
                     </div>
                 </div>
