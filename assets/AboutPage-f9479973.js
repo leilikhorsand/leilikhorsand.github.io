@@ -1,4 +1,4 @@
-import{g as n,h as r,i as s,r as u,j as i,C as c}from"./index-75d28f25.js";import{P as l}from"./Page-ec95bf03.js";function d(){const t=new Date(n),e=new Date;let o=e.getFullYear()-t.getFullYear();const a=e.getMonth()-t.getMonth();return(a<0||a===0&&e.getDate()<t.getDate())&&o--,o}const g={title:"hi hi hiiii",details:[{id:1,text:` i am , ${d()} years old. `,icon:"🧔🏻"},{id:2,text:" and this is this. ",icon:"🧑🏼‍🎓"},{id:3,text:`
+import{g as n,h as r,i as s,r as u,j as i,C as c}from"./index-76318ce6.js";import{P as l}from"./Page-3731e598.js";function d(){const t=new Date(n),e=new Date;let o=e.getFullYear()-t.getFullYear();const a=e.getMonth()-t.getMonth();return(a<0||a===0&&e.getDate()<t.getDate())&&o--,o}const g={title:"hi hi hiiii",details:[{id:1,text:` i am , ${d()} years old. `,icon:"🧔🏻"},{id:2,text:" and this is this. ",icon:"🧑🏼‍🎓"},{id:3,text:`
               good good.
            `,icon:"🎯"},{id:4,text:" hi ",icon:"💻"},{id:5,text:`
               yes
