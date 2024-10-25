@@ -7,7 +7,7 @@ function Type() {
   return (
     <Typewriter
       options={{
-        strings: ["pmu", "master"],
+        strings: ["pmu", "master", "09371001262"],
         autoStart: true,
         loop: true,
         deleteSpeed: 50,
